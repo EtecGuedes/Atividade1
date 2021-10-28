@@ -1,0 +1,28 @@
+Kaian de Almeida Guedes
+
+1. git init:
+- Serve para iniciar a criação de um novo repositório local.
+
+2. git config --global user.name:
+- Usado para definir um nome de usuário.
+
+3. git config --global user.email:
+- Usado para definir um email do usuário.
+
+4. git remote add origin:
+- Ele conecta o repositório local à um repositório remoto.
+
+5. git status:
+- Verifica o estado dos arquivos no repositório local, se há algum arquivo alterado, adicionado ou removido.
+
+6. git log:
+- Mostra o histórico de alterações.
+
+7. git add:
+- Adiciona um novo arquivo na área de preparação.
+
+8. git commit:
+- Salva as mudanças do repositório local e adiciona a mensagem de commit.
+
+9. git push:
+- O git push é usado para publicar todas as alterações locais que estão na área de preparação para o repositório remoto.
